@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mimi-uxui-dev
 - 👀 I’m interested in UX, UI Design && Frontend Development 
-- 🌱 I’m currently learning ReactJS & Redux
+- 🌱 I’m currently learning Redux
 - 💞️ I’m looking to collaborate on projects for both uxui design &/or frontend projects
 - 📫 Reach me via email: uxui.mimi@gmail.com 
 - 💛 Have a beautiful day 😊
