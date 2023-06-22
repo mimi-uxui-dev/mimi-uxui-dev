@@ -3,4 +3,4 @@
 - 🌱 Always learning
 - 💞️ I’m looking to collaborate on projects for both UX/UI design &/or front-end projects
 - 📫 Reach me via email: **hey@mimikhoudour.com**
-- 🔥Portfolio: [mimikhoudour.com](https://mimikhoudour.com/)https://mimikhoudour.com/
+- 🔥Portfolio: **[mimikhoudour.com](https://mimikhoudour.com/)**
